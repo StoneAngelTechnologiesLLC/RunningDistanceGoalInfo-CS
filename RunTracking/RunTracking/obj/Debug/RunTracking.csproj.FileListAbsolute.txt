@@ -1,0 +1,6 @@
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\RunTracking\RunTracking\bin\Debug\RunTracking.exe.config
+C:\Users\John Pietrangelo\Documents\Visual Studio 2012\Projects\RunTracking\RunTracking\bin\Debug\RunTracking.exe
+C:\Users\John Pietrangelo\Documents\Visual Studio 2012\Projects\RunTracking\RunTracking\bin\Debug\RunTracking.pdb
+C:\Users\John Pietrangelo\Documents\Visual Studio 2012\Projects\RunTracking\RunTracking\obj\Debug\RunTracking.csprojResolveAssemblyReference.cache
+C:\Users\John Pietrangelo\Documents\Visual Studio 2012\Projects\RunTracking\RunTracking\obj\Debug\RunTracking.exe
+C:\Users\John Pietrangelo\Documents\Visual Studio 2012\Projects\RunTracking\RunTracking\obj\Debug\RunTracking.pdb
